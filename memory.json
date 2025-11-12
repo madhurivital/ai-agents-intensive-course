@@ -1,0 +1,16 @@
+{
+    "conversations": [
+        {
+            "user": "today i laerned python"
+        },
+        {
+            "agent": "Got it! I'll keep that in mind."
+        },
+        {
+            "user": "remember this"
+        },
+        {
+            "agent": "Recently, we talked about: today i laerned python, , remember this"
+        }
+    ]
+}
